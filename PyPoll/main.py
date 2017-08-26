@@ -2,8 +2,8 @@
 import csv
 
 # Files to Load / Output
-input = "RawData/election_data_2.csv"
-output = "Analysis/Election_Analysis_2.txt"
+input = "RawData/election_data_1.csv"
+output = "Analysis/Election_Analysis_1.txt"
 
 # Variables to Track
 
